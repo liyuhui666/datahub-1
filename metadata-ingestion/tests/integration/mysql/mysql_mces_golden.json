@@ -152,7 +152,7 @@
     },
     "proposedDelta": null,
     "systemMetadata": {
-        "lastObserved": 1638424003077,
+        "lastObserved": 1586847600000,
         "runId": "mysql-test",
         "properties": null
     }
@@ -319,7 +319,7 @@
     },
     "proposedDelta": null,
     "systemMetadata": {
-        "lastObserved": 1638424003098,
+        "lastObserved": 1586847600000,
         "runId": "mysql-test",
         "properties": null
     }
@@ -441,7 +441,7 @@
     },
     "proposedDelta": null,
     "systemMetadata": {
-        "lastObserved": 1638424003124,
+        "lastObserved": 1586847600000,
         "runId": "mysql-test",
         "properties": null
     }
